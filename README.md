@@ -21,4 +21,4 @@ AngularJS-powered HTML5 Markdown editor.
 ## Tech
 
 Dillinger uses a number of open source projects to work properly:
-- [AngularJS] - HTML enhanced for web apps!
+- [AngularJS](www.google.com) - HTML enhanced for web apps!
