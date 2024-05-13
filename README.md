@@ -18,3 +18,7 @@ AngularJS-powered HTML5 Markdown editor.
 - ```sh
 127.0.0.1:8000
 ```
+## Tech
+
+Dillinger uses a number of open source projects to work properly:
+- [AngularJS] - HTML enhanced for web apps!
