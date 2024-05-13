@@ -15,3 +15,6 @@ AngularJS-powered HTML5 Markdown editor.
 - Drag and drop markdown and HTML files into Dillinger
 - Export documents as Markdown, HTML and PDF
 - bla bla
+- ```sh
+127.0.0.1:8000
+```
